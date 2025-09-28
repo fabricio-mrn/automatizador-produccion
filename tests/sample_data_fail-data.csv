@@ -1,0 +1,3 @@
+fecha,turno,maquina,produccion_unidades,tiempo_activo_horas,defectos,operario
+2025-09-01,Mañana,Atomizador_1,-100,8.0,12,Juan
+2025-09-01,Tarde,Atomizador_2,NaN,7.8,25,Maria

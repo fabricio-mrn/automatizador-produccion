@@ -1,0 +1,11 @@
+fecha,turno,maquina,produccion_unidades,tiempo_activo_horas,defectos,operario
+2024-09-01,Mañana,Atomizador_1,1250,8.0,12,Juan
+2024-09-01,Mañana,Atomizador_2,1180,7.5,8,Maria
+2024-09-01,Tarde,Atomizador_1,1100,8.0,15,Carlos
+2024-09-01,Tarde,Atomizador_2,1220,7.8,5,Ana
+2024-09-02,Mañana,Atomizador_1,1300,8.0,10,Juan
+2024-09-02,Mañana,Atomizador_2,1150,7.2,18,Pedro
+2024-09-03,Mañana,Atomizador_1,1280,8.0,8,Juan
+2024-09-03,Tarde,Atomizador_2,1050,7.0,25,Carlos
+2024-09-04,Mañana,Atomizador_1,1320,8.0,6,Juan
+2024-09-04,Tarde,Atomizador_2,980,6.5,30,Maria
