@@ -2,6 +2,8 @@
 
 Herramienta Python para procesar archivos CSV industriales (uso atomizadores como ejemplo), analizar métricas de producción y generar reportes automatizados.
 
+## 🏗️ Este es mi primer proyecto Python profesional, desarrollado de forma autodidacta
+
 ## 🚀 Características
 - Procesamiento automático de archivos CSV
 - Análisis de métricas de producción industriales
@@ -16,5 +18,3 @@ Herramienta Python para procesar archivos CSV industriales (uso atomizadores com
 ## 🛠️ Instalación
 ```bash
 pip install -r requirements.txt
-
-## Este es mi primer proyecto Python profesional, desarrollado de forma autodidacta
